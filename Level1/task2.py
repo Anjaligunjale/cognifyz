@@ -1,7 +1,10 @@
 # Task 2: Temperature Conversion
 
+print("Please select operation -\n" \
+        "1. fahrenheit\n" \
+        "2. celsius\n")
 
-Convert = int(input("Enter option for Temperature to be converted 1. fahrenheit & 2. celsius : "))
+Convert = int(input("Select operation from 1 & 2 :"))
 
 if Convert==1:		
 
