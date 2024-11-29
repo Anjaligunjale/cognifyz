@@ -18,6 +18,7 @@ Task 5: Palindrome Checker
 Write a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., "madam" or "racecar").# cognifyz
 
 Level 2:
+
 Task 1: Guessing Game
 Write a Python program that generates a random number between 1 and 100. The user should then try to guess the number. The program should provide hints such as "too high" or "too low" until the correct number is guessed.
 
